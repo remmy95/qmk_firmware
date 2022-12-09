@@ -4,7 +4,7 @@ K557
 
 Keyboard Maintainer: [Remmy95](https://github.com/remmy95)
 Based on Redragon K556 by: [Adam Honse](https://github.com/CalcProgrammer1)
-Special thanks to: [HorrorTroll](https://github.com/HorrorTroll) & Saw (A Boot) for figuring out the MCU pins
+
 Hardware Supported: SN32F240B
 
 Make example for this keyboard (after setting up your build environment):
